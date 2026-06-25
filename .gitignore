@@ -1,0 +1,15 @@
+# Large files (not uploaded)
+data/transcript.csv
+cleaned_data/master_data.csv
+cleaned_data/transcript_cleaned.csv
+
+# Temporary files
+~$*
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
